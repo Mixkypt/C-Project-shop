@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1664106045 source:d:\mixky\code\project mind\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
